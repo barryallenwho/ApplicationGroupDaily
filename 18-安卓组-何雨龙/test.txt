@@ -1,5 +1,0 @@
-void main()
-{
-	int sum=1+1;
-	return 0;
-}
